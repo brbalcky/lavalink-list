@@ -6,4 +6,11 @@
     "password": "horizxon.xyz",
     "secure": false
   },
+  {
+    "identifier": "node-2",
+    "host": "lava1.horizxon.xyz",
+    "port": 443,
+    "password": "horizxon.xyz",
+    "secure": true
+  }
 ]
