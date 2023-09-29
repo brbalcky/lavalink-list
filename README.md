@@ -1,16 +1,14 @@
-<!-- title -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![Forks][forks-shield]][forks-url]
 [![Stars][stars-shield]][stars-url]
-[![License][license-shield]][license-url]
-[![Discord][discord-shield]][discord-url]
-[![Donate][donate-shield]][donate-url]
+<!-- title -->
 
 # Lavalink list
 <!-- titlestop -->
 <!-- description -->
-A list of Lavalink nodes with their live status.
+A list of free and available public Lavalink nodes with their live status. Feel free to make a pull request!
 
 <!-- descriptionstop -->
 
@@ -36,6 +34,13 @@ A list of Lavalink nodes with their live status.
   ]
 }
 ```
+- `identifier` - The identifier of your node
+- `host` - The host of your node
+- `port` - The port of your node
+- `password` - The password of your node
+- `secure` - If your node is using SSL
+- `author` - Your name or nickname
+
 
 ## Contributores
 
