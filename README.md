@@ -50,7 +50,7 @@ Thanks goes to these wonderful people :
   <img src="https://contrib.rocks/image?repo=brblacky/lavalink-list" />
 </a>
 
-[contributors-url]: https://github.com/brblacky/lavamusic/graphs/contributors
+
 
 
 
@@ -59,6 +59,5 @@ Thanks goes to these wonderful people :
 [issues-shield]: https://img.shields.io/github/issues/brblacky/lavalink-list.svg?style=for-the-badge
 [forks-shield]: https://img.shields.io/github/forks/brblacky/lavalink-list.svg?style=for-the-badge
 [stars-shield]: https://img.shields.io/github/stars/brblacky/lavalink-list.svg?style=for-the-badge
-[license-shield]: https://img.shields.io/github/license/brblacky/lavalink-list.svg?style=for-the-badge
-[discord-shield]: https://img.shields.io/discord/959276033683628122?style=for-the-badge
-[donate-shield]: https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge
+[contributors-url]: https://github.com/brblacky/lavamusic/graphs/contributors
+
