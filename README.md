@@ -14,11 +14,11 @@
     A list of free and available public Lavalink nodes with their live status. Feel free to make a pull request!
     <br />
     <br />
-    <a href=" https://github.com/brblacky/lavalink-list/pulls">Make a pull request</a>
+    <a href="https://github.com/brblacky/lavalink-list/pulls">Make a pull request</a>
     ·
-    <a href=" https://github.com/brblacky/lavalink-list/issues">Report Bug</a>
+    <a href="https://github.com/brblacky/lavalink-list/issues">Report Bug</a>
     ·
-    <a href=" https://github.com/brblacky/lavalink-list/issues">Request Feature</a>
+    <a href="https://github.com/brblacky/lavalink-list/issues">Request Feature</a>
     </p>
 </div>
 <!-- how to add my node -->
