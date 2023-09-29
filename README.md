@@ -5,7 +5,7 @@
 [![Stars][stars-shield]][stars-url]
 
 <!-- jumbotron with button -->
-<p align="center">
+<div align="center">
   <a href=" https://github.com/brblacky/lavalink-list">
     <img src="https://media.discordapp.net/attachments/876035356460462090/887728792926290091/20210820_124325.png" alt="logo" width="80" height="80">
     </a>
@@ -19,7 +19,7 @@
     ·
     <a href=" https://github.com/brblacky/lavalink-list/issues">Request Feature</a>
     </p>
-</p>
+</div>
 <!-- how to add my node -->
 ## How to add my node?
 
