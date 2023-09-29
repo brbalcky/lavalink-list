@@ -4,7 +4,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stars][stars-shield]][stars-url]
 
-<!-- jumbotron with button -->
+<!-- jumbotron with links -->
 <div align="center">
   <a href=" https://github.com/brblacky/lavalink-list">
     <img src="https://media.discordapp.net/attachments/876035356460462090/887728792926290091/20210820_124325.png" alt="logo" width="80" height="80">
@@ -12,6 +12,7 @@
     <h3 align="center">Lavalink list</h3>
     <p align="center">
     A list of free and available public Lavalink nodes with their live status. Feel free to make a pull request!
+    <br />
     <br />
     <a href=" https://github.com/brblacky/lavalink-list/pulls">Make a pull request</a>
     ·
@@ -28,6 +29,7 @@
 3. Create a pull request
 <!-- nodes.json example -->
 ## `nodes.json` example
+
 ```json
 {
  [
@@ -42,13 +44,13 @@
   ]
 }
 ```
+
 - `identifier` - The identifier of your node
 - `host` - The host of your node
 - `port` - The port of your node
 - `password` - The password of your node
 - `secure` - If your node is using SSL
 - `author` - Your name or nickname
-
 
 ## Contributores
 
@@ -57,10 +59,6 @@ Thanks goes to these wonderful people :
 <a href="https://github.com/brblacky/lavalink-list/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=brblacky/lavalink-list" />
 </a>
-
-
-
-
 
 <!-- links -->
 [contributors-shield]: https://img.shields.io/github/contributors/brblacky/lavalink-list.svg?style=for-the-badge
