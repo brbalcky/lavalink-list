@@ -1,5 +1,18 @@
 [
   {
-    
+    "identifier": "lava.horizxon.xyz",
+    "host": "lava.horizxon.xyz",
+    "port": 80,
+    "password": "horizxon.xyz",
+    "secure": false,
+    "author": "Horizxon"
+  },
+  {
+    "identifier": "lava4.lykhost.link",
+    "host": "lava4.lykhost.link",
+    "port": 8416,
+    "password": "24",
+    "secure": false,
+    "author": "Lykhost"
   }
 ]
