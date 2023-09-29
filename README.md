@@ -6,11 +6,11 @@
 
 <!-- jumbotron with links -->
 <div align="center">
-  <a href=" https://github.com/brblacky/lavalink-list">
+  <a href="https://github.com/brblacky/lavalink-list">
     <img src="https://media.discordapp.net/attachments/876035356460462090/887728792926290091/20210820_124325.png" alt="logo" width="80" height="80">
-    </a>
-    <h3 align="center">Lavalink list</h3>
-    <p align="center">
+  </a>
+  <h3 align="center">Lavalink list</h3>
+  <p align="center">
     A list of free and available public Lavalink nodes with their live status. Feel free to make a pull request!
     <br />
     <br />
@@ -19,8 +19,9 @@
     <a href="https://github.com/brblacky/lavalink-list/issues">Report Bug</a>
     ·
     <a href="https://github.com/brblacky/lavalink-list/issues">Request Feature</a>
-    </p>
+  </p>
 </div>
+
 <!-- how to add my node -->
 ## How to add my node?
 
