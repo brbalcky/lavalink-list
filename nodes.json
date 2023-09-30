@@ -1,5 +1,37 @@
 [
   {
+    "identifier": "Horizxon - SG",
+    "host": "lava.horizxon.xyz",
+    "port": 80,
+    "password": "horizxon.xyz",
+    "secure": false,
+    "authorId": "410380919212605440"
+  },
+  {
+    "identifier": "Horizxon-1 (EU)",
+    "host": "lava1.horizxon.xyz",
+    "port": 443,
+    "password": "horizxon.xyz",
+    "secure": true,
+    "authorId": "410380919212605440"
+  },
+  {
+    "identifier": "Horizxon-2 (US)",
+    "host": "lava2.horizxon.xyz",
+    "port": 443,
+    "password": "horizxon.xyz",
+    "secure": true,
+    "authorId": "410380919212605440"
+  },
+  {
+    "identifier": "Horizxon-3 (CA)",
+    "host": "lava3.horizxon.xyz",
+    "port": 443,
+    "password": "horizxon.xyz",
+    "secure": true,
+    "authorId": "410380919212605440"
+  },
+  {
     "identifier": "towdawg",
     "host": "74.201.216.46",
     "port": 4026,
@@ -22,37 +54,5 @@
     "password": "stonemusicgay",
     "secure": false,
     "authorId": "238477261781598219"
-  },
-  {
-    "identifier": "horizxon",
-    "host": "lava1.horizxon.studio",
-    "port": 80,
-    "password": "horizxon.studio",
-    "secure": false,
-    "authorId": "410380919212605440"
-  },
-  {
-    "identifier": "horizxon-2",
-    "host": "lava2.horizxon.studio",
-    "port": 80,
-    "password": "horizxon.studio",
-    "secure": false,
-    "authorId": "410380919212605440"
-  },
-  {
-    "identifier": "horizxon-3",
-    "host": "lava3.horizxon.studio",
-    "port": 80,
-    "password": "horizxon.studio",
-    "secure": false,
-    "authorId": "410380919212605440"
-  },
-  {
-    "identifier": "horizxon-4",
-    "host": "lava4.horizxon.studio",
-    "port": 80,
-    "password": "horizxon.studio",
-    "secure": false,
-    "authorId": "410380919212605440"
   }
 ]
