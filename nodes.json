@@ -24,27 +24,35 @@
     "authorId": "238477261781598219"
   },
   {
-    "identifier": "Caliwyr",
-    "host": "lavalink.oryzen.xyz",
-    "port": 2248,
-    "password": "discord.gg/6xpF6YqVDd",
+    "identifier": "horizxon",
+    "host": "lava1.horizxon.studio",
+    "port": 80,
+    "password": "horizxon.studio",
     "secure": false,
-    "authorId": "875635121770889257"
+    "authorId": "410380919212605440"
   },
   {
-    "identifier": "Caliwyr",
-    "host": "lavalink1.oryzen.xyz",
-    "port": 1481,
-    "password": "discord.gg/6xpF6YqVDd",
+    "identifier": "horizxon-2",
+    "host": "lava2.horizxon.studio",
+    "port": 80,
+    "password": "horizxon.studio",
     "secure": false,
-    "authorId": "875635121770889257"
+    "authorId": "410380919212605440"
   },
   {
-    "identifier": "Caliwyr",
-    "host": "lavalink2.oryzen.xyz",
-    "port": 1317,
-    "password": "discord.gg/6xpF6YqVDd",
+    "identifier": "horizxon-3",
+    "host": "lava3.horizxon.studio",
+    "port": 80,
+    "password": "horizxon.studio",
     "secure": false,
-    "authorId": "875635121770889257"
+    "authorId": "410380919212605440"
+  },
+  {
+    "identifier": "horizxon-4",
+    "host": "lava4.horizxon.studio",
+    "port": 80,
+    "password": "horizxon.studio",
+    "secure": false,
+    "authorId": "410380919212605440"
   }
 ]
