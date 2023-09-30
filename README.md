@@ -16,9 +16,9 @@
     <br />
     <a href="https://github.com/brblacky/lavalink-list/pulls">Make a pull request</a>
     ·
-    <a href="https://github.com/brblacky/lavalink-list/issues">Report Bug</a>
+    <a href="https://github.com/brblacky/lavalink-list/issues">Report Bug/Request Feature</a>
     ·
-    <a href="https://github.com/brblacky/lavalink-list/issues">Request Feature</a>
+    <a href="https://discord.gg/q45tURe2Pq">Support Server</a>
   </p>
 </div>
 
@@ -40,7 +40,7 @@
         "port": 2333,
         "password": "example.com",
         "secure": false,
-        "author": "blacky"
+        "authorId": "959276033683628122"
     }
   ]
 }
@@ -51,7 +51,7 @@
 - `port` - The port of your node
 - `password` - The password of your node
 - `secure` - If your node is using SSL
-- `author` - Your name or nickname
+- `authorId` - Your User Discord ID (To get your avatar, name and tag foe display in the list)
 
 ## Contributores
 
