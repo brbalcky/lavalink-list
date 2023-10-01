@@ -1,33 +1,33 @@
 [
   {
     "identifier": "Horizxon - SG",
-    "host": "lava.horizxon.xyz",
+    "host": "lava.horizxon.tech",
     "port": 80,
-    "password": "horizxon.xyz",
+    "password": "horizxon.tech",
     "secure": false,
     "authorId": "410380919212605440"
   },
   {
     "identifier": "Horizxon-1 (EU)",
-    "host": "lava1.horizxon.xyz",
+    "host": "lava1.horizxon.tech",
     "port": 443,
-    "password": "horizxon.xyz",
+    "password": "horizxon.tech",
     "secure": true,
     "authorId": "410380919212605440"
   },
   {
     "identifier": "Horizxon-2 (US)",
-    "host": "lava2.horizxon.xyz",
+    "host": "lava2.horizxon.tech",
     "port": 443,
-    "password": "horizxon.xyz",
+    "password": "horizxon.tech",
     "secure": true,
     "authorId": "410380919212605440"
   },
   {
     "identifier": "Horizxon-3 (CA)",
-    "host": "lava3.horizxon.xyz",
+    "host": "lava3.horizxon.tech",
     "port": 443,
-    "password": "horizxon.xyz",
+    "password": "horizxon.tech",
     "secure": true,
     "authorId": "410380919212605440"
   },
