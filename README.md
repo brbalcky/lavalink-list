@@ -22,6 +22,11 @@
   </p>
 </div>
 
+<!-- previews images -->
+## Previews
+![preview](https://cdn.discordapp.com/attachments/942120006219624469/1158375903114575872/image.png)
+![preview](hhttps://cdn.discordapp.com/attachments/942120006219624469/1158375903399772210/image.png)
+
 <!-- how to add my node -->
 ## How to add my node?
 
